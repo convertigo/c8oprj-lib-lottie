@@ -1,7 +1,7 @@
 
 # ![](https://github.com/convertigo/convertigo/blob/develop/engine/src/com/twinsoft/convertigo/beans/core/images/project_color_16x16.png?raw=true "Project") lib_Lottie
 
-The LottieFiles component for Convertigo.  use this compienent to use any lottie .json animations in your apps.
+The LottieFiles component for Convertigo.  use this component to play any lottie .json animation in your apps.
 
 <details><summary><span style="color:DarkGoldenRod"><i>Connectors</i></span></summary><blockquote><p>
 

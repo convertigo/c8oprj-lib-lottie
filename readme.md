@@ -3,7 +3,7 @@
 
 # lib_Lottie
 
-The LottieFiles component for Convertigo.  use this compienent to use any lottie .json animations in your apps.
+The LottieFiles component for Convertigo.  use this component to play any lottie .json animation in your apps.
 
 
 For more technical informations : [documentation](./project.md)
