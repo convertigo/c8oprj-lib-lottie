@@ -3,6 +3,8 @@
 
 The LottieFiles component for Convertigo.  use this component to play any lottie .json animation in your apps.
 
+You also have a sample project using the component. To see the demo just play the app.
+
 <details><summary><span style="color:DarkGoldenRod"><i>Connectors</i></span></summary><blockquote><p>
 
 
