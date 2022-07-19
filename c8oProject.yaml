@@ -1,6 +1,6 @@
 ↑convertigo: 8.0.0.m006
 ↓lib_Lottie [core.Project]: 
-  comment: Convertigo Mobile builder Project
+  comment: The LottieFiles component for Convertigo.  use this compienent to use any lottie .json animations in your apps.
   corsOrigin: =Origin
   ↓void [connectors.SqlConnector]: 🗏 connectors/void.yaml
   ↓NgxBuilderTemplate [references.ProjectSchemaReference]: 
